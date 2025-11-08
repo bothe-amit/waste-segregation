@@ -16,7 +16,7 @@ The notebook demonstrates the complete workflow — from **data preprocessing an
 ## ⚙️ Execution
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/cnn-waste-segregation.git
+   git clone https://github.com/bothe-amit/cnn-waste-segregation.git
    cd cnn-waste-segregation
    ```
 2. Launch the notebook:
