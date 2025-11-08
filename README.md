@@ -30,6 +30,8 @@ The notebook demonstrates the complete workflow — from **data preprocessing an
 - Visual performance analysis through accuracy and loss curves  
 - Demonstrates the potential of CNNs for environmental AI applications  
 
+## Dataset - https://woolfaws-prod.s3.ap-south-1.amazonaws.com/sharepoint_zips/Dataset_Waste_Segregation.zip
+
 ## 👤 Author
 **Amit Bothe**  
 *Exploring AI-driven solutions for sustainable and intelligent systems*
